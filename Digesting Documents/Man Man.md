@@ -3,6 +3,7 @@
 Need to find the hidden name for the manual for the command /challenge/challenge by reading the manual's manual
 
 # My Solve 
+## Flag: pwn.college{k6jKkg3IwmiadNZWpJWZGMr505N.QX2EDO0wiNwAzNzEzW}
 
 ```
 
