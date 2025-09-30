@@ -1,6 +1,7 @@
 # Named Pipes 
 
 # My solve 
+## Flag: pwn.college{glkNMbE0Q699DFunUKgp8fC-I7C.01MzMDOxwiNwAzNzEzW}
 
 ```
 Terminal 1 -
