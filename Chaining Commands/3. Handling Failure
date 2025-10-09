@@ -1,0 +1,17 @@
+# Handling Failure 
+
+# My Solve
+## Flag:pwn.college{QEqbwUE9l3rn7RjKQE9huMQVLKi.01M0MDOxwiNwAzNzEzW}
+
+```
+hacker@chaining~handling-failure:~$ /challenge/first-failure || /challenge/second 
+Nice chaining! Flag: pwn.college{QEqbwUE9l3rn7RjKQE9huMQVLKi.01M0MDOxwiNwAzNzEzW}
+hacker@chaining~handling-failure:~$ 
+```
+
+# What I learnt
+We can use || to chain commands, only if the first commands FAILS
+
+# Reference 
+
+none.
